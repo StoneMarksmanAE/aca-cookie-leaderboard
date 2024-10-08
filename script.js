@@ -1,3 +1,3 @@
-function(l) {
+(function(l) {
   alert("loader version: " + l);
-}
+})
