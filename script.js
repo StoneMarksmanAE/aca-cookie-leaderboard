@@ -1,3 +1,1 @@
-(l)=>{
-  alert("loader version: " + l);
-}
+alert("loader version: " + l);
