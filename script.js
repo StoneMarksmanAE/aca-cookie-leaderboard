@@ -1,1 +1,1 @@
-alert("loader version: " + l);
+alert("loader version: " + ACA_COOKIE_a);
