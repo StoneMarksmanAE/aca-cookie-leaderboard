@@ -1,1 +1,1 @@
-alert("loader version: " + a);
+alert("loader version: " + LOADER_VERSION);
