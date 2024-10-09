@@ -27,7 +27,7 @@
     
                     '<div class="title">'+loc("Aca Cookie Leaderboard")+'</div>'+
                     '<div class="listing"><a class="option smallFancyButton" '+Game.clickStr+'="Game.toSave=true;PlaySound(\'snd/tick.mp3\');">'+loc("Login")+'</a><label>'+loc("Login via Google to have your cookies listed on the Aca Cookie Leaderboard")+'</label></div>'+
-                    '<div class="listing"><a class="option smallFancyButton" href="mailto:stonemarksmanae@gmail.com?subject=Aca%20Cookie%20Leaderboard%20Bug%20Report" '+Game.clickStr+'="PlaySound(\'snd/tick.mp3\');">'+loc("Report bug")+'</a><label>'+loc("or email: stonemarksmanae@gmail.com")+'</label></div>'+
+                    '<div class="listing"><a class="option smallFancyButton" href="mailto:stonemarksmanae@gmail.com?subject=Aca%20Cookie%20Leaderboard%20Bug%20Report" '+Game.clickStr+'="PlaySound(\'snd/tick.mp3\');">'+loc("Report Bug")+'</a><label>'+loc("or email: stonemarksmanae@gmail.com")+'</label></div>'+
                     '<div class="listing"><b>'+loc("Version:")+'</b> '+loc(LOADER_VERSION + '+' + MAIN_VERSION)+'</div>'+
                     '<br>'+
     
